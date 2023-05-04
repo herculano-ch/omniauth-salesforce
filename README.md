@@ -1,1 +1,1 @@
-### Now maintained by @realdoug at https://github.com/realdoug/omniauth-salesforce
+### Omniauth Sales force strategy
