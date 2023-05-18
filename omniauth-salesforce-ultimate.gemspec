@@ -2,7 +2,7 @@ require File.expand_path('../lib/omniauth-salesforce/version', __FILE__)
 
 Gem::Specification.new do |gem|
   gem.authors       = ['Herculano Chaves']
-  gem.email         = ['herculano@.optonal.com']
+  gem.email         = ['herculano@optonal.com']
   gem.description   = 'OmniAuth strategy for salesforce.com. Addapted to work with Omniauth 2.0.'
   gem.summary       = 'OmniAuth strategy for salesforce.com.'
   gem.homepage      = 'https://github.com/herculano-ch/omniauth-salesforce'
