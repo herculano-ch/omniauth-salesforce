@@ -4,12 +4,6 @@
 
 Note: This is a fork of the [original](https://github.com/richardvanhook/omniauth-salesforce) project and is now the main repository for the omniauth-salesforce gem.
 
-## See it in action
-
-[http://omniauth-salesforce-example.herokuapp.com](http://omniauth-salesforce-example.herokuapp.com)
-
-[Source for above app](https://github.com/richardvanhook/omniauth-salesforce-example)
-
 ## Basic Usage
 
 ```ruby
